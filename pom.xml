@@ -63,7 +63,6 @@
 	<!-- Mule Dependencies -->
 	<dependencies>
 	
-	
 		<!-- training custom dependencies -->
 		<dependency>
 			<groupId>org.apache.derby</groupId>
